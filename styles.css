@@ -181,11 +181,6 @@ body {
     box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.1);
 }
 
-/* Campo Matrícula */
-.matricula-field {
-    /* Container sem estilo visual extra */
-}
-
 .matricula-field label {
     font-size: 1.1em;
     font-weight: 600;
